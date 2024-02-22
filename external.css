@@ -1,0 +1,22 @@
+section {
+    background-color: lightgoldenrodyellow;
+}
+#title {
+    background-color: yellow;
+    border: 10px double burlywood;
+    padding-left: 10%;
+    margin: 0 25%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+} 
+.category {
+    background-color: lightcyan ;
+    border: 2px solid ;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+.pic {
+    margin-right: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
